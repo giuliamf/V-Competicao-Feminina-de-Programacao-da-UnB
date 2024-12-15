@@ -1,6 +1,6 @@
 # V-Competicao-Feminina-de-Programacao-da-UnB
 
-Este repositório contém as soluções em **Python** para os problemas propostos na **V Competição Feminina de Programação da UnB**. As soluções foram implementadas de forma eficiente e seguem as restrições de tempo e memória especificadas.
+Este repositório contém as soluções em **Python** para os problemas propostos na **V Competição Feminina de Programação da UnB** organizada pelas **Meninas.comp**. As soluções foram implementadas de forma eficiente e seguem as restrições de tempo e memória especificadas.
 
 # Estrutura do Repositório
 
