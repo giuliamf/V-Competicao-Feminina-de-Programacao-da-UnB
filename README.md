@@ -8,12 +8,12 @@ Cada questão possui um código-fonte em **Python** que resolve o problema com b
 
 Lista de Questões Resolvidas:
 
-A. Surpresa pras lenhadoras!
-B. Caça ao tesouro
-C. Defeito no Elevador
-D. Unballoon Points
-E. Escaladora de Pirâmides
-F. Piquenique
-G. Ganhando de lavada
-H. Maior Subpalíndromo
-I. Produtos Capilares
+1. **A. Surpresa pras lenhadoras!**
+2. **B. Caça ao tesouro**
+3. **C. Defeito no Elevador**
+4. **D. Unballoon Points**
+5. **E. Escaladora de Pirâmides**
+6. **F. Piquenique**
+7. **G. Ganhando de lavada**
+8. **H. Maior Subpalíndromo**
+9. **I. Produtos Capilares**
